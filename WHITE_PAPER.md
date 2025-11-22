@@ -46,12 +46,12 @@ We hypothesize that \*\*Hexagonal Lattice Packing\*\* (related to the Kepler Con
 
 
 
-$$
+
 
 ```math
 H_{injected}(t) = H(t) + \lambda \cdot e^{-\gamma t} \sin(\omega t + \phi)
 ```
-$$
+
 
 
 
@@ -65,11 +65,11 @@ The Dragon architecture implements a recursive attention mechanism defined by:
 
 
 
-$$
 
-\\Phi(t) = \\alpha \\Phi(t-1) + \\beta \\tanh(S(t) + \\Phi(t-1))
+```math
+\Phi(t) = \alpha \Phi(t-1) + \beta \tanh(S(t) + \Phi(t-1))
+```
 
-$$
 
 
 
