@@ -27,10 +27,10 @@ ENV/
 .env
 .venv
 
-# IDE nastavitve (VS Code, PyCharm)
+# IDE settings (VS Code, PyCharm)
 .idea/
 .vscode/
 *.swp
 
-# Model weights (Opcijsko - če želiš model v paketu, to vrstico IZBRIŠI!)
+# Model weights 
 # *.pth
