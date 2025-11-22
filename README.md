@@ -378,10 +378,10 @@ python demo.py
 
 ```bash
 # Build image
-docker build -t dragonmemory:latest .
+docker build -t dragon_compressor:latest .
 
 # Run container
-docker run -p 8000:8000 dragonmemory:latest
+docker run -p 8000:8000 dragon_compressor:latest
 
 # Test API
 curl -X POST http://localhost:8000/compress \
@@ -465,8 +465,8 @@ git push origin feature/your-feature-name
 If you use DragonMemory in your research, please cite:
 
 ```bibtex
-@software{dragonmemory2024,
-  title={DragonMemory: Resonant Semantic Compression for Infinite AI Context},
+@software{dragon_compressor 2025,
+  title={Dragon Compressor Resonant Semantic Compression for Infinite AI Context},
   author={Žakelj, Damjan},
   year={2024},
   url={https://github.com/Freeky7819/dragon_compressor},
