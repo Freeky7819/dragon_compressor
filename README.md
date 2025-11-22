@@ -41,7 +41,7 @@
 
 **Dragon Compressor** solves one of the most critical problems in modern AI: **memory management for long conversations and large document collections**.
 
-> **💡 Key Insight:** Standard RAG systems store every sentence as a 384-dimensional vector. For 100,000 documents, that's **18.4 GB of RAM**. DragonMemory compresses this to **1.15 GB** while preserving 90%+ of the semantic meaning.
+> **💡 Key Insight:** Standard RAG systems store every sentence as a 384-dimensional vector. For 100,000 documents, that's **18.4 GB of RAM**. Dragon Compresso compresses this to **1.15 GB** while preserving 90%+ of the semantic meaning.
 
 <br>
 
