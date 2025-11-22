@@ -58,7 +58,7 @@
 
 **Think of it like this:**
 - 📚 **Traditional approach**: Photocopy every page of a book
-- 🎯 **DragonMemory**: Extract only the key insights, quotes, and turning points
+- 🎯 **Dragon Compressor**: Extract only the key insights, quotes, and turning points
 
 <br>
 
