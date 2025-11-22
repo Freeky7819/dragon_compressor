@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/dragonmemory/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Freeky7819/dragon_compressor/pulls)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 📑 Table of Contents
 
-- [What is Dragon Compressor?](#-what-is-dragonmemory)
+- [What is Dragon Compressor?](#-what-is-Dragon-Compresso)
 - [Key Features](#-key-features)
 - [Performance Benchmarks](#-performance-benchmarks)
 - [Quick Start](#-quick-start)
