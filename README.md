@@ -462,7 +462,7 @@ git push origin feature/your-feature-name
 
 ## 📚 Citation
 
-If you use DragonMemory in your research, please cite:
+If you use Dragon Compressior in your research, please cite:
 
 ```bibtex
 @software{dragon_compressor 2025,
