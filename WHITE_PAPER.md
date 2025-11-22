@@ -48,7 +48,7 @@ We hypothesize that \*\*Hexagonal Lattice Packing\*\* (related to the Kepler Con
 
 $$
 
-H(t) = \\text{Linear}(x) + w \\cdot e^{-\\gamma t} \\sin(6t + \\phi)
+H_{injected}(t) = H(t) + \lambda \cdot e^{-\gamma t} \sin(\omega t + \phi)
 
 $$
 
