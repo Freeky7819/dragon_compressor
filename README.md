@@ -132,13 +132,13 @@ Built on rigorous mathematical principles:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dragonmemory.git
-cd dragonmemory
+git clone https://github.com/Freeky7819/dragon_compressor.git
+cd dragon_compressor
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Install DragonMemory
+# Install dragon_compressor
 pip install -e .
 ```
 
