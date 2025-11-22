@@ -1,0 +1,36 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE nastavitve (VS Code, PyCharm)
+.idea/
+.vscode/
+*.swp
+
+# Model weights (Opcijsko - če želiš model v paketu, to vrstico IZBRIŠI!)
+# *.pth

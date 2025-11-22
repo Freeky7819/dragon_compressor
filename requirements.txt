@@ -1,0 +1,21 @@
+# --- Core Dragon Dependencies ---
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+tqdm
+
+# --- API Server (FastAPI) ---
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+
+# --- Export & Deployment (C++ Ready) ---
+onnx>=1.14.0
+# Optional: onnxruntime for testing export in Python
+onnxruntime>=1.15.0
+
+# --- Benchmarking & Utils ---
+psutil
+filelock
+requests
