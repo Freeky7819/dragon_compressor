@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐉 DragonMemory
+# 🐉 Dragon Compressor
 
 ### Neural Semantic Compression for Infinite AI Context
 
@@ -17,7 +17,7 @@
 
 ## 📑 Table of Contents
 
-- [What is DragonMemory?](#-what-is-dragonmemory)
+- [What is Dragon Compressor?](#-what-is-dragonmemory)
 - [Key Features](#-key-features)
 - [Performance Benchmarks](#-performance-benchmarks)
 - [Quick Start](#-quick-start)
@@ -37,7 +37,7 @@
 
 <br>
 
-## 🎯 What is DragonMemory?
+## 🎯 What is Dragon Compressor?
 
 **DragonMemory** solves one of the most critical problems in modern AI: **memory management for long conversations and large document collections**.
 
@@ -248,7 +248,7 @@ compressed = response.json()
 
 ## 🏗️ Architecture Deep Dive
 
-DragonMemory consists of three core components:
+Dragon Compressor consists of three core components:
 
 ### 1. Harmonic Injector
 Adds a **decaying sinusoidal signal** (ω=6.0) to embeddings, creating structural "landmarks" that survive compression.
@@ -286,7 +286,7 @@ Conv1D(kernel=3, padding=1) → GELU → Conv1D(kernel=3, dilation=2)
 
 ## 🔬 Training Methodology
 
-DragonMemory was trained using **Teacher-Student** distillation:
+Dragon Compressor was trained using **Teacher-Student** distillation:
 
 | Component | Details |
 |-----------|---------|
@@ -310,7 +310,7 @@ DragonMemory was trained using **Teacher-Student** distillation:
 ## 📁 Project Structure
 
 ```
-dragonmemory/
+dragon_compressor/
 ├── dragon/
 │   ├── __init__.py
 │   ├── model.py              # Core architecture (Resonant Pointer)
@@ -439,7 +439,7 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Fork & clone
-git clone https://github.com/yourusername/dragonmemory.git
+git clone https://github.com/Freeky7819/dragon_compressor.git
 
 # Create feature branch
 git checkout -b feature/your-feature-name
@@ -469,7 +469,7 @@ If you use DragonMemory in your research, please cite:
   title={DragonMemory: Resonant Semantic Compression for Infinite AI Context},
   author={Žakelj, Damjan},
   year={2024},
-  url={https://github.com/yourusername/dragonmemory},
+  url={https://github.com/Freeky7819/dragon_compressor},
   note={Neural architecture achieving 16:1 compression with 90\%+ semantic fidelity}
 }
 ```
@@ -512,8 +512,8 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/dragonmemory/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/dragonmemory/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Freeky7819/dragon_compressor/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Freeky7819/dragon_compressor/discussions)
 - **Email**: your.email@example.com
 
 <br>
@@ -553,7 +553,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ### 🐉 Built with precision, passion, and mathematical poetry 💙
 
-**Star ⭐ this repo if DragonMemory helps your project!**
+**Star ⭐ this repo if Dragon Compressor helps your project!**
 
 <br>
 
